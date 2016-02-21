@@ -1,5 +1,7 @@
 # Appx
 
+[![Build Status](https://travis-ci.org/nearlyfreeapps/appx.svg?branch=master)](https://travis-ci.org/nearlyfreeapps/appx)
+
 ## Installation
 
 Add this line to your application's Gemfile:
